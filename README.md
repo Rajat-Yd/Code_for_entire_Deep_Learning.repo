@@ -7,3 +7,4 @@
 - Deep Learning Code for Object Detection.
 - Deep Learning for Optical Character Recognition (OCR).
 - Beginner to Expert Linear Algebra in DL.
+# Thanks To NeuraLearn.ai
